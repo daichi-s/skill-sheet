@@ -9,7 +9,6 @@
 |出身|滋賀県|
 
 ## スキル
-## 言語・フレームワーク
 - PHP
 - Laravel
 - JavaScript
