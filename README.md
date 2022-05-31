@@ -31,6 +31,7 @@
 - React.js（Next.js）でのWeb開発
 - Vue.js（Nuxt.js）でのWeb開発
 - Firebaseを用いたWeb開発
+- Stripeを用いた決済処理の実装
 
 ---
 
@@ -39,6 +40,12 @@
 ### 【フリーランス：2021/03~現在】
 主にLaravel案件、その他ReactやVue等の案件にアサイン。
 
+- Firebaseを用いたLaravel案件での追加機能開発
+  - Vue.jsでの追加機能開発
+  - React.jsでの追加機能開発
+  - firebase functions での追加機能開発
+- フロントがReact.js(Next.js)、APIがRailsの案件で主に先方フィードバックの機能改修
+- フロントがVue.js(Nuxt.js)、APIがLaravelの既存システムフルリニューアル新規開発
 
 ### 【株式会社cotegg：2020/12~2021/03】
 副業契約でRails案件にアサイン。
